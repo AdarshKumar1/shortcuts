@@ -9,5 +9,7 @@ c f {Search Key} - Delete till the match
 H - high, go to top the window(not file)
 M - medium, go to mid of the window(not file) 
 L - low, go end the window(not file) 
+c s w {Symbol} - Surround current word with the symbol
+c s {Old Sybol} {New Symbol} - Replace Old surrounding symbol with New Symbol
 ```
 Source - [Thoughtbot](https://www.youtube.com/watch?v=OnUiHLYZgaA)
